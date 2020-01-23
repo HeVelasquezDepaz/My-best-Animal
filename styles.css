@@ -1,0 +1,17 @@
+img {
+    height: 220px;
+}
+
+body {
+    text-align: center;
+    background: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/la-mitad-de-la-lluvia-anual-de-todo-el-mundo-cae-en-solo-doce-di-as-1542889404.jpg?resize=480:*");
+    color: red;
+    font-size: 45px;
+    margin: 12px;
+
+}
+
+h1 {
+    color: yellow;
+
+}
